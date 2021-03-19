@@ -1,0 +1,66 @@
+p{
+    margin:0;
+    font-family: comic ;
+    font-size: xx-large;
+  }
+  h1{
+    text-align: center;
+    margin: 0;
+    padding: auto;
+    background-image: url(images/19742.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    height: 2cm;
+    display: flex;
+    justify-content: center;
+    color: brown;
+    font-size: 1.5cm;
+  }
+  #time{
+    width:fit-max;
+    text-align: center;
+    font-size: 3cm;
+    padding-top: 180px;
+    background-image: url(images/blue-watercolor-texture1.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    height: 9cm;
+    color:white;
+    display: flex;
+    justify-content: center;
+    
+  }
+  span{
+    padding: 20px;
+    align-content: center;
+    
+   
+  }
+  .controls{
+    margin:0px;
+    width:auto;
+    padding-top: 20px;
+    background-image: url(images/19742.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    height:2cm;
+    vertical-align:middle;
+    display: flex;
+    justify-content: center;
+  }
+  button{
+    border: 1px solid brown;
+    background-size: cover;
+    background: brown;
+    font-family:Cambria;
+    font-size: 20px;
+    border-radius: 50px;
+    color:cornsilk;
+    padding: 15px 50px;
+  }
+  button:hover{
+    cursor: pointer;
+    font-weight: lighter;
+    opacity: 0.9;
+    transform: scale(0.98);
+  }
